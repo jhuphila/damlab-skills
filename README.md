@@ -25,6 +25,7 @@ bash install.sh
 | `samtools` | [samtools](https://www.htslib.org/) | SAM/BAM/CRAM alignment file manipulation |
 | `seqkit` | [seqkit](https://bioinf.shenwei.me/seqkit/) | FASTA/FASTQ sequence manipulation |
 | `csvtk` | [csvtk](https://bioinf.shenwei.me/csvtk/) | CSV/TSV tabular data manipulation |
+| `bcftools` | [bcftools](https://www.htslib.org/) | VCF/BCF variant calling utilities: filtering, normalization, annotation, merge/concat, and QC stats |
 | `pod5` | [pod5](https://github.com/nanoporetech/pod5-file-format) | POD5 nanopore raw signal file inspection, merging, filtering, subsetting, and conversion |
 | `crispresso` | [CRISPResso2](https://docs.crispresso.com/) | CRISPR genome editing outcome analysis from amplicon sequencing (indels, HDR, base editing, prime editing) |
 | `rclone` | [rclone](https://rclone.org/) | Sync and transfer files with cloud storage and remote backends (S3, GCS, Drive, SFTP, etc.) |
