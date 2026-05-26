@@ -23,6 +23,7 @@ bash install.sh
 | Skill | Tool | Description |
 |---|---|---|
 | `samtools` | [samtools](https://www.htslib.org/) | SAM/BAM/CRAM alignment file manipulation |
+| `bedtools` | [bedtools](https://bedtools.readthedocs.io/) | Genome arithmetic on BED/GFF/VCF/BAM intervals (overlap, merge, coverage, FASTA extraction) |
 | `seqkit` | [seqkit](https://bioinf.shenwei.me/seqkit/) | FASTA/FASTQ sequence manipulation |
 | `csvtk` | [csvtk](https://bioinf.shenwei.me/csvtk/) | CSV/TSV tabular data manipulation |
 | `pod5` | [pod5](https://github.com/nanoporetech/pod5-file-format) | POD5 nanopore raw signal file inspection, merging, filtering, subsetting, and conversion |

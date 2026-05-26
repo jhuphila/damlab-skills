@@ -10,7 +10,7 @@
 - [x] pod5
 - [x] crispresso
 - [ ] cas-offinder
-- [ ] bedtools
+- [x] bedtools
 - [ ] bcftools
 - [ ] minimap2
 - [ ] bwa
