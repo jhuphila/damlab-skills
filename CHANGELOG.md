@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Added
 
+- Tool skill `bedtools`: genome arithmetic on BED/GFF/VCF/BAM intervals (intersect, merge, coverage, getfasta, etc.).
 - Tool skills `eda` and `jupyter-notebook`: collaborative notebook-first EDA workflow (conda env + patterns) and jupytext/nbformat/nbconvert for notebook CLI workflows.
 - Documentation: [INSTALL.md](INSTALL.md), [PHILOSOPHY.md](PHILOSOPHY.md), [FAQ.md](FAQ.md), [CONTRIBUTING.md](CONTRIBUTING.md); README refactored as a landing page with links to those docs.
 - `install.sh`: configurable skill link destination via `--cursor`, `--openclaw`, `--dest <dir>`, or `SKILLS_DST`; `bash install.sh --help`.
